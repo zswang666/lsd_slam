@@ -82,7 +82,7 @@ Install system dependencies:
 
 In your ROS package path, clone the repository:
 
-    git clone https://github.com/tum-vision/lsd_slam.git lsd_slam
+    git clone https://github.com/zswang666/lsd_slam.git lsd_slam
 
 Compile the two package by typing:
 
