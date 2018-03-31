@@ -328,4 +328,5 @@ If you need some other way in which the map is published (e.g. publish the whole
 - double-check your camera calibration.
 - try more translational movement and less roational movement
 
-
+# 7 Differences From Original Repo
+- Fix typos in ```lsd_slam/lsd_slam_core/cfg/LSDDebugParams.cfg``` and ```lsd_slam/lsd_slam_viewer/cfg/LSDSLAMViewerParams.cfg```. Following [issue](https://github.com/tum-vision/lsd_slam/issues/270).
